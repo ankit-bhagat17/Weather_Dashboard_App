@@ -2,7 +2,7 @@
 #matplotlib.use("TkAgg") 
 import streamlit as st
 import pandas as pd
-import mysql.connector
+#import mysql.connector
 import matplotlib.pyplot as plt
 import seaborn as sns
 import folium
